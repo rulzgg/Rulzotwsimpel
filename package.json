@@ -1,7 +1,7 @@
 {
-    "name": "Charlotte-base",
+    "name": "Emotional pain base",
     "version": "1.0.0",
-    "description": "Whatsapp bot by Kyrie",
+    "description": "Whatsapp bot by Rulz and alif",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -11,7 +11,7 @@
         "whiskeysockets",
         "multi-device"
     ],
-    "author": "Kyrie Not Star",
+    "author": "Rulz Not Star",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -19,7 +19,7 @@
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@hapi/boom": "^10.0.1",
         "@upstash/redis": "^1.34.4",
-        "@whiskeysockets/baileys": "github:kiuur/bails",
+        "@whiskeysockets/baileys": "github.com/rulzgg",
         "awesome-phonenumber": "^6.4.0",
         "axios": "^0.27.2",
         "chalk": "^4.1.2",
